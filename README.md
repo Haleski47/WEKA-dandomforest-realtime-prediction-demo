@@ -1,4 +1,4 @@
-# WEKA-dandomforest-realtime-prediction-demo
+# WEKA-randomforest-realtime-prediction-demo
 a weka demo using randomforest. dataset: cpu.with.vendor.arff
 
 The first time that i use the github lol
